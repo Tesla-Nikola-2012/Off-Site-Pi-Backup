@@ -5,4 +5,4 @@ Requirements:
 Some type of Linux based host with the ability to run an OpenVPN client, and your own locally hosted openVPN server.
 
 Basic idea:
-The off-site Raspberry Pi is set up to periodically reache out to your local network via an OpenVPN server that you host, and it uses rsync to back-up files stored on a file server.  The point is to use the Raspberry Pi as an "off-site" file server to keep backups of your files.
+The off-site Raspberry Pi is set up to periodically reach out to your local network via an OpenVPN server that you host, and it uses rsync to back-up files stored on a file server.  The point is to use the Raspberry Pi as an "off-site" file server to keep backups of your files.
